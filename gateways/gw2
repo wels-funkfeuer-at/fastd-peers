@@ -1,5 +1,0 @@
-key "7b5536f97bcdd62ab6af7bca1ad32e86ae7b527d239b9588d5e4fac561ccb445";
-remote ipv4 "dedi.projektkiste.at" port 20000;
-remote ipv4 144.76.33.98:20000;
-remote ipv4 192.168.46.200:10000;
-float yes;
