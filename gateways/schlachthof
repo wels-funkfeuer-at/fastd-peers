@@ -1,0 +1,5 @@
+key "d71492c83c705af88e2f631367d436eb67d29667257eb1fe91b4c8de2a2102fe";
+#remote ipv4 "leto.wels.funkfeuer.at" port 10000;
+remote ipv4 leto.wels.funkfeuer.at:10000;
+float yes;
+
